@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
-
+// https://lemoncode.net/lemoncode-blog/2017/12/12/git-y-visual-studio-code
+// usuario nestdanchia
+// clave nestdan01
 interface User {
   name: string;
   age: number;
